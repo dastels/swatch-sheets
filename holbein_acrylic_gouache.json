@@ -1,0 +1,192 @@
+{
+  "page": {
+    "title": "Holbein Acrylic Gouache",
+    "width": 595,
+    "height": 841,
+    "rows": 12,
+    "cols": 4,
+    "label": "right"
+  },
+  "swatches": [
+    {
+      "name": "Crimson",
+      "number": "D002",
+      "lightfastness": 2,
+      "pigments": "PR122,184"
+    },
+    {
+      "name": "Carmine",
+      "number": "D002",
+      "lightfastness": 2,
+      "pigments": "PR170"
+    },
+    {
+      "name": "Scarlet",
+      "number": "D003",
+      "lightfastness": 2,
+      "pigments": "PR9"
+    },
+    {
+      "name": "Vermillion",
+      "number": "D012",
+      "lightfastness": 2,
+      "pigments": "PR9 PO13"
+    },
+    {
+      "name": "Orange",
+      "number": "D035",
+      "lightfastness": 2,
+      "pigments": "PO13"
+    },
+    {
+      "name": "Jaune Brilliant",
+      "number": "D038",
+      "lightfastness": 2,
+      "pigments": "PR170 PY83 PW6"
+    },
+    {
+      "name": "Deep Yellow",
+      "number": "D033",
+      "lightfastness": 2,
+      "pigments": "PY83"
+    },
+    {
+      "name": "Lemon Yellow",
+      "number": "D034",
+      "lightfastness": 2,
+      "pigments": "PY3"
+    },
+    {
+      "name": "Leaf Green",
+      "number": "D070",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7"
+    },
+    {
+      "name": "Light Green",
+      "number": "D062",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7"
+    },
+    {
+      "name": "Green",
+      "number": "D061",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7"
+    },
+    {
+      "name": "Grass Green",
+      "number": "D071",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7 PW6"
+    },
+    {
+      "name": "Viridian",
+      "number": "D064",
+      "lightfastness": 3,
+      "pigments": "PG7 PB15"
+    },
+    {
+      "name": "Deep Green",
+      "number": "D063",
+      "lightfastness": 2,
+      "pigments": "PY83 PG7"
+    },
+    {
+      "name": "Cerulean Blue",
+      "number": "D094",
+      "lightfastness": 3,
+      "pigments": "PB15"
+    },
+    {
+      "name": "Cobalt Blue",
+      "number": "D093",
+      "lightfastness": 3,
+      "pigments": "PB15"
+    },
+    {
+      "name": "Ultramarine Deep",
+      "number": "D092",
+      "lightfastness": 3,
+      "pigments": "PB29"
+    },
+    {
+      "name": "Navy Blue",
+      "number": "D098",
+      "lightfastness": 3,
+      "pigments": "PG7 PB29"
+    },
+    {
+      "name": "Horizon Blue",
+      "number": "D102",
+      "lightfastness": 3,
+      "pigments": "PG7 PB15 PW6"
+    },
+    {
+      "name": "Aqua Blue",
+      "number": "D099",
+      "lightfastness": 3,
+      "pigments": "PB15 PW6"
+    },
+    {
+      "name": "Violet",
+      "number": "D111",
+      "lightfastness": 0,
+      "pigments": "BV1,15"
+    },
+    {
+      "name": "Magenta",
+      "number": "D115",
+      "lightfastness": 0,
+      "pigments": "BR12 BV7,11,15"
+    },
+    {
+      "name": "Burnt Sienna",
+      "number": "D131",
+      "lightfastness": 4,
+      "pigments": "PR101"
+    },
+    {
+      "name": "Yellow Ochre",
+      "number": "D039",
+      "lightfastness": 4,
+      "pigments": "PY42"
+    },
+    {
+      "name": "Burnt Umber",
+      "number": "D133",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Titanium White",
+      "number": "D151",
+      "lightfastness": 4,
+      "pigments": "PW6"
+    },
+    {
+      "name": "Jet Black",
+      "number": "D136",
+      "lightfastness": 2,
+      "pigments": "PBk1"
+    },
+    {
+      "name": "Primary Magenta",
+      "number": "D190",
+      "lightfastness": 3,
+      "pigments": "PR122"
+    },
+    {
+      "name": "Primary Yellow",
+      "number": "D191",
+      "lightfastness": 2,
+      "pigments": "PY3,74"
+    },
+    {
+      "name": "Primary Cyan",
+      "number": "D192",
+      "lightfastness": 3,
+      "pigments": "PB15"
+    }
+  ]
+}

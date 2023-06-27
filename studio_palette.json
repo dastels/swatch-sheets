@@ -1,0 +1,354 @@
+{
+  "page": {
+    "title": "Holbein Watercolour",
+    "width": 518,
+    "height": 420,
+    "rows": 7,
+    "cols": 12,
+    "label": "right"
+  },
+  "swatches": [
+      {
+          "brand": "HWC",
+          "name": "Crimson Lake"
+      },
+      {
+          "brand": "HWC",
+          "name": "Alizarin Crimson"
+      },
+      {
+          "brand": "HWC",
+          "name": "Carmine"
+      },
+      {
+          "brand": "HWC",
+          "name": "Rose Madder"
+      },
+      {
+          "brand": "HWC",
+          "name": "Pyrrole Red"
+      },
+      {
+          "brand": "DS",
+          "name": "Cadmium Red Hue"
+      },
+      {
+          "brand": "HWC",
+          "name": "Vermillion Hue"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Colbalt Yellow"
+      },
+      {
+          "brand": "HWC",
+          "name": "Permanent Yellow Orange"
+      },
+      {
+          "brand": "DS",
+          "name": "Cadmium Yello Hue"
+      },
+      {
+          "brand": "HWC",
+          "name": "Quinacridone Gold"
+      },
+      {
+          "brand": "HWC",
+          "name": "Permanent Yellow Light"
+      },
+
+      {
+          "brand": "HWC",
+          "name": "Lemon Yellow"
+      },
+      {
+          "brand": "HWC",
+          "name": "Naples Yellow"
+      },
+      {
+          "brand": "HWC",
+          "name": "Jaune Brilliant No. 1"
+      },
+      {
+          "brand": "HWC",
+          "name": "Permanent Green No. 1"
+      },
+      {
+          "brand": "HWC",
+          "name": "Permanent Green No. 2"
+      },
+      {
+          "brand": "HWC",
+          "name": "Bamboo Green"
+      },
+      {
+          "brand": "HWC",
+          "name": "Viridian Hue"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Green Oops"
+      },
+      {
+          "brand": "HWC",
+          "name": "Terre Verte"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Invoke"
+      },
+      {
+          "brand": "HWC",
+          "name": "Turquoise Blue"
+      },
+      {
+          "brand": "HWC",
+          "name": "Cerulean Blue"
+      },
+
+      {
+          "brand": "WLWC",
+          "name": "Cobalt Cerulean"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Blue Oops"
+      },
+      {
+          "brand": "HWC",
+          "name": "Colbalt Blue Hue"
+      },
+      {
+          "brand": "DS",
+          "name": "French Ultramarine"
+      },
+      {
+          "brand": "HWC",
+          "name": "Prussian Blue"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Payne's Indigo"
+      },
+      {
+          "brand": "HWC",
+          "name": "Quinacridone Magenta"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Purple Oops"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Buff Titanium"
+      },
+      {
+          "brand": "HWC",
+          "name": "Burnt Sienna"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Diamonite"
+      },
+      {
+          "brand": "HWC",
+          "name": "Burnt Umber"
+      },
+
+      {
+          "brand": "HWC",
+          "name": "Raw Umber"
+      },
+      {
+          "brand": "HWC",
+          "name": "Yellow Ochre"
+      },
+      {
+          "brand": "HWC",
+          "name": "Umber"
+      },
+      {
+          "brand": "HWC",
+          "name": "Sepia"
+      },
+      {
+          "brand": "HWC",
+          "name": "Ivory Black"
+      },
+      {
+          "brand": "DS",
+          "name": "Payne's Grey"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Raincloud"
+      },
+      {
+          "brand": "HWC",
+          "name": "Chinese White"
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+
+      {
+          "brand": "WLWC",
+          "name": "Bobo Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Sakura Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Taro Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Matcha Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Roasted Oulong Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Thai Milktea"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Kaleidoscope"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Sunburst"
+      },
+      {
+          "brand": "WLWC",
+          "name": "Shibori"
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      },
+      {
+          "brand": "",
+          "name": ""
+      }
+  ]
+}

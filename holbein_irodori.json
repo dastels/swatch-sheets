@@ -1,0 +1,300 @@
+{
+  "page": {
+    "title": "Holbein Irodori Gouache",
+    "width": 595,
+    "height": 841,
+    "rows": 12,
+    "cols": 4,
+    "label": "right"
+  },
+  "swatches": [
+    {
+      "name": "Enji / Crimson",
+      "number": "G801",
+      "lightfastness": 2,
+      "pigments": "PR83"
+    },
+    {
+      "name": "Beni / Safflower Red",
+      "number": "G802",
+      "lightfastness": 2,
+      "pigments": "PR170"
+    },
+    {
+      "name": "Hiiro / Scarlet",
+      "number": "G803",
+      "lightfastness": 3,
+      "pigments": "PR254"
+    },
+    {
+      "name": "Shu / Vermillion",
+      "number": "G804",
+      "lightfastness": 2,
+      "pigments": "PY74 PO73 PR254"
+    },
+    {
+      "name": "Ouni / Orange",
+      "number": "G811",
+      "lightfastness": 3,
+      "pigments": "PY42 PR9"
+    },
+    {
+      "name": "Ususango / Pale Coral",
+      "number": "G812",
+      "lightfastness": 2,
+      "pigments": "PO36 PW6"
+    },
+    {
+      "name": "Kouji / Orange Yellow",
+      "number": "G813",
+      "lightfastness": 2,
+      "pigments": "PO73 PY83"
+    },
+    {
+      "name": "Yamabuki / Kerria Japonica Yellow",
+      "number": "G821",
+      "lightfastness": 2,
+      "pigments": "PY3,83"
+    },
+    {
+      "name": "Nanohana / Canola Yellow",
+      "number": "G822",
+      "lightfastness": 2,
+      "pigments": "PY74"
+    },
+    {
+      "name": "Remon / Lemon",
+      "number": "G525",
+      "lightfastness": 2,
+      "pigments": "PY3"
+    },
+    {
+      "name": "Kuchinashi / Gardinia Yellow",
+      "number": "G824",
+      "lightfastness": 2,
+      "pigments": "PY3,42"
+    },
+    {
+      "name": "Kihada / Amur Cork Yellow",
+      "number": "G825",
+      "lightfastness": 3,
+      "pigments": "PY154 PG17"
+    },
+    {
+      "name": "Kohaku / Amber",
+      "number": "G826",
+      "lightfastness": 3,
+      "pigments": "PY119,83"
+    },
+    {
+      "name": "Oudo / Light Ochre",
+      "number": "G827",
+      "lightfastness": 4,
+      "pigments": "PY42,43"
+    },
+    {
+      "name": "Taisha / Taisha Brown",
+      "number": "G831",
+      "lightfastness": 4,
+      "pigments": "PBr7 PY42 PR101"
+    },
+    {
+      "name": "Bengara / Iron Oxide Red",
+      "number": "G832",
+      "lightfastness": 4,
+      "pigments": "PR101"
+    },
+    {
+      "name": "Azuki / Russet Brown",
+      "number": "G833",
+      "lightfastness": 4,
+      "pigments": "PR101"
+    },
+    {
+      "name": "Kogecha / Dark Brown",
+      "number": "G834",
+        "lightfastness": 4,
+      "pigments": "PY111 PR101 PBk11"
+    },
+    {
+      "name": "Hiwada / Bark Brown",
+      "number": "G835",
+      "lightfastness": 4,
+      "pigments": "PY111 PR101 PBk11"
+    },
+    {
+      "name": "Susutake / Smoked Bamboo",
+      "number": "G836",
+      "lightfastness": 4,
+      "pigments": "PR101 PBk11"
+    },
+    {
+      "name": "Byakuroku / Pale Patina",
+      "number": "G841",
+      "lightfastness": 2,
+      "pigments": "BG7 PY3 PW6"
+    },
+    {
+      "name": "Wakanae / Seedling",
+      "number": "G842",
+      "lightfastness": 2,
+      "pigments": "PY3,83 PG7"
+    },
+    {
+      "name": "Wakaba / Spring Green",
+      "number": "G843",
+      "lightfastness": 2,
+      "pigments": "PY14 PG7"
+    },
+    {
+      "name": "Moegi / Leek Green",
+      "number": "G844",
+      "lightfastness": 3,
+      "pigments": "PY42,74 PG7"
+    },
+    {
+      "name": "Tokiwamidori / Evergreen",
+      "number": "G845",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7 PY83"
+    },
+    {
+      "name": "Aotake / Bamboo Green",
+      "number": "G846",
+      "lightfastness": 2,
+      "pigments": "PG7 PW6"
+    },
+    {
+      "name": "Rokushou / Patina",
+      "number": "G847",
+      "lightfastness": 3,
+      "pigments": "PG7"
+    },
+    {
+      "name": "Senzaimidori / Pine Tree Green",
+      "number": "G848",
+      "lightfastness": 3,
+      "pigments": "PY42 PG8"
+    },
+    {
+      "name": "Uguisu / Elm Green",
+      "number": "G849",
+      "lightfastness": 3,
+      "pigments": "PY42 PG8"
+    },
+    {
+      "name": "Mirucha / Russet Green",
+      "number": "G850",
+      "lightfastness": 2,
+      "pigments": "PY17 PG8 PR83"
+    },
+    {
+      "name": "Wasurenagusa / Myosotis Blue",
+      "number": "G861",
+      "lightfastness": 2,
+      "pigments": "PB29,60 PW6"
+    },
+    {
+      "name": "Shinbashi / Geisha Blue",
+      "number": "G862",
+      "lightfastness": 2,
+      "pigments": "PB15 PG7 PW6"
+    },
+    {
+      "name": "Tsuyukusa / Dayflower Blue",
+      "number": "G863",
+      "lightfastness": 2,
+      "pigments": "PB29,16 PW6"
+    },
+    {
+      "name": "Asagi / Oriental Blue",
+      "number": "G864",
+      "lightfastness": 3,
+      "pigments": "PB15 PG7"
+    },
+    {
+      "name": "Kujakuao / Hummingbird Blue",
+      "number": "G865",
+      "lightfastness": 2,
+      "pigments": "PB15 PG7 PY3"
+    },
+    {
+      "name": "Ai / Indigo",
+      "number": "G866",
+      "lightfastness": 2,
+      "pigments": "PB15 PR83 PBk6"
+    },
+    {
+      "name": "Gunjou / Ultramarine",
+      "number": "G867",
+      "lightfastness": 3,
+      "pigments": "PB29"
+    },
+    {
+      "name": "Kikyou / Bellflower",
+      "number": "G871",
+      "lightfastness": 2,
+      "pigments": "PV23 PW6"
+    },
+    {
+      "name": "Botan / Peony",
+      "number": "G872",
+      "lightfastness": 3,
+      "pigments": "PR122 PV23 PBr25"
+    },
+    {
+      "name": "Edomurasaki / Edo Violet",
+      "number": "G873",
+      "lightfastness": 3,
+      "pigments": "PB29 PR122"
+    },
+    {
+      "name": "Ginnezu / Silver Grey",
+      "number": "G881",
+      "lightfastness": 3,
+      "pigments": "PBk6 PY42 PW6"
+    },
+    {
+      "name": "Rikyuuneza / Rikyu Grey",
+      "number": "G882",
+      "lightfastness": 2,
+      "pigments": "PG8 PR170 PW6"
+    },
+    {
+      "name": "Seiboku / Blue Black",
+      "number": "G883",
+      "lightfastness": 3,
+      "pigments": "PB29 PBk6"
+    },
+    {
+      "name": "Sumi / Black",
+      "number": "G884",
+      "lightfastness": 4,
+      "pigments": "PBk7,6"
+    },
+    {
+      "name": "Gofun / White",
+      "number": "G885",
+      "lightfastness": 4,
+      "pigments": "PW6"
+    },
+    {
+      "name": "Aokin / Antique Gold",
+      "number": "G891",
+      "lightfastness": 4,
+      "pigments": "PW20"
+    },
+    {
+      "name": "Akakin / Antique Rich Gold",
+      "number": "G892",
+      "lightfastness": 4,
+      "pigments": "PW20"
+    },
+    {
+      "name": "Gin / Antique Silver",
+      "number": "G893",
+      "lightfastness": 4,
+      "pigments": "PW20"
+    }
+  ]
+}

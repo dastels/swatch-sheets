@@ -1,0 +1,186 @@
+{
+  "page": {
+    "title": "Holbein Watercolour",
+    "width": 595,
+    "height": 841,
+    "rows": 12,
+    "cols": 4,
+    "label": "right"
+  },
+  "swatches": [
+    {
+      "name": "Crimson Lake",
+      "number": "W010",
+      "lightfastness": 3,
+      "pigments": "PR177,122 PV19"
+    },
+    {
+      "name": "Carmine",
+      "number": "W011",
+      "lightfastness": 2,
+      "pigments": "PR83"
+    },
+    {
+      "name": "Rose Madder",
+      "number": "W012",
+      "lightfastness": 2,
+      "pigments": "PR83"
+    },
+    {
+      "name": "Pyrrole Red",
+      "number": "W007",
+      "lightfastness": 3,
+      "pigments": "PR254"
+    },
+    {
+      "name": "Vermillion Hue",
+      "number": "W019",
+      "lightfastness": 3,
+      "pigments": "PO73 PR254 PY110"
+    },
+    {
+      "name": "Permanent Yellow Orange",
+      "number": "W038",
+      "lightfastness": 2,
+      "pigments": "PY74,83 PO73"
+    },
+    {
+      "name": "Quinacridone Gold",
+      "number": "W142",
+      "lightfastness": 3,
+      "pigments": "PO48 PY150"
+    },
+    {
+      "name": "Permanent Yellow Light",
+      "number": "W036",
+      "lightfastness": 2,
+      "pigments": "PY74,83"
+    },
+    {
+      "name": "Lemon Yellow",
+      "number": "W033",
+      "lightfastness": 2,
+      "pigments": "PY3 PW6"
+    },
+    {
+      "name": "Naples Yellow",
+      "number": "W030",
+      "lightfastness": 3,
+      "pigments": "PY35,42 PW6"
+    },
+    {
+      "name": "Jaune Brilliant No. 1",
+      "number": "W031",
+      "lightfastness": 3,
+      "pigments": "PO20 PY35 PW6"
+    },
+    {
+      "name": "Permanent Green No. 1",
+      "number": "W066",
+      "lightfastness": 2,
+      "pigments": "PY3,53 PG7"
+    },
+    {
+      "name": "Permanent Green No. 2",
+      "number": "W067",
+      "lightfastness": 2,
+      "pigments": "PY74,53 PG7"
+    },
+    {
+      "name": "Bamboo Green",
+      "number": "W078",
+      "lightfastness": 3,
+      "pigments": "PG36"
+    },
+    {
+      "name": "Viridian Hue",
+      "number": "W061",
+      "lightfastness": 3,
+      "pigments": "PG7"
+    },
+    {
+      "name": "Terre Verte",
+      "number": "W065",
+      "lightfastness": 4,
+      "pigments": "PG23,17"
+    },
+    {
+      "name": "Turquoise Blue",
+      "number": "W099",
+      "lightfastness": 2,
+      "pigments": "PG7 PB15 PW6"
+    },
+    {
+      "name": "Cerulean Blue",
+      "number": "W092",
+        "lightfastness": 4,
+      "pigments": "PB35"
+    },
+    {
+      "name": "Colbalt Blue Hue",
+      "number": "W091",
+      "lightfastness": 3,
+      "pigments": "PB29,15"
+    },
+    {
+      "name": "Prussian Blue",
+      "number": "W097",
+      "lightfastness": 2,
+      "pigments": "PB27"
+    },
+    {
+      "name": "Quinacridone Magenta",
+      "number": "W119",
+      "lightfastness": 3,
+      "pigments": "PR122"
+    },
+    {
+      "name": "Burnt Sienna",
+      "number": "W134",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Burnt Umber",
+      "number": "W133",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Raw Umber",
+      "number": "W131",
+      "lightfastness": 4,
+      "pigments": "PBr7 PY42"
+    },
+    {
+      "name": "Yellow Ochre",
+      "number": "W034",
+      "lightfastness": 4,
+      "pigments": "PY42"
+    },
+    {
+      "name": "Umber",
+      "number": "W129",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Sepia",
+      "number": "W136",
+      "lightfastness": 4,
+      "pigments": "PBr7 PBk6"
+    },
+    {
+      "name": "Ivory Black",
+      "number": "W138",
+      "lightfastness": 4,
+      "pigments": "PBk9"
+    },
+    {
+      "name": "Chinese White",
+      "number": "W002",
+      "lightfastness": 4,
+      "pigments": "PW6"
+    }
+  ]
+}

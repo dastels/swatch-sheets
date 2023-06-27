@@ -1,0 +1,300 @@
+{
+  "page": {
+    "title": "Nicker Poster Colour",
+    "width": 595,
+    "height": 841,
+    "rows": 12,
+    "cols": 4,
+    "label": "right"
+  },
+  "swatches": [
+    {
+      "name": "Crimson Lake",
+      "number": "002",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Carmine",
+      "number": "003",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Scarlet Lake",
+      "number": "004",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Vermillion",
+      "number": "005",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Magenta",
+      "number": "011",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Opera",
+      "number": "012",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Pink",
+      "number": "014",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Brilliant Rose",
+      "number": "119",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Orange",
+      "number": "024",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Chrome Deep",
+      "number": "025",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Chrome Yellow",
+      "number": "026",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Lemon Yellow",
+      "number": "027",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Jaune Brilliant",
+      "number": "028",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Permanent Yellow",
+      "number": "031",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Emerald Green",
+      "number": "033",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Viridian",
+      "number": "034",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Chrome Green (1)",
+      "number": "035",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Chrome Green (2)",
+      "number": "036",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Chrome Green (3)",
+      "number": "037",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Cobalt Green",
+      "number": "038",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Turkey Green",
+      "number": "039",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Sap Green",
+      "number": "040",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Linden Green",
+      "number": "131",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Imperial Green",
+      "number": "132",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Olive Green",
+      "number": "133",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Light Green",
+      "number": "143",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Prussian Blue",
+      "number": "017",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Ultramarine",
+      "number": "018",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Cobalt Blue",
+      "number": "019",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Marine Blue",
+      "number": "020",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Cerulean Blue",
+      "number": "021",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Blue Celeste",
+      "number": "022",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Blue Gray",
+      "number": "023",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Light Blue",
+      "number": "124",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "French Blue",
+      "number": "125",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Sky Blue",
+      "number": "128",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Mauve",
+      "number": "009",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Cobalt Violet",
+      "number": "010",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Heliotrope",
+      "number": "013",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "Violet Pale",
+      "number": "117",
+      "lightfastness": 1,
+      "pigments": ""
+    },
+    {
+      "name": "Yellow Ochre",
+      "number": "030",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Burnet Sienna",
+      "number": "043",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Burnt Umber",
+      "number": "046",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Raw Umber",
+      "number": "047",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Sepia",
+      "number": "048",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "Chocolate",
+      "number": "049",
+      "lightfastness": 2,
+      "pigments": ""
+    },
+    {
+      "name": "White",
+      "number": "051",
+      "lightfastness": 3,
+      "pigments": ""
+    },
+    {
+      "name": "French Gray",
+      "number": "053",
+      "lightfastness": 3,
+      "pigments": ""
+    }
+  ]
+}

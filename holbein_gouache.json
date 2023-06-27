@@ -1,0 +1,300 @@
+{
+  "page": {
+    "title": "Holbein Gouache",
+    "width": 595,
+    "height": 841,
+    "rows": 12,
+    "cols": 4,
+    "label": "right"
+  },
+  "swatches": [
+    {
+      "name": "Alizarin Crimson",
+      "number": "G501",
+      "lightfastness": 2,
+      "pigments": "PR83"
+    },
+    {
+      "name": "Carmine",
+      "number": "G502",
+      "lightfastness": 2,
+      "pigments": "PR170"
+    },
+    {
+      "name": "Flame Red",
+      "number": "G507",
+      "lightfastness": 2,
+      "pigments": "PR9"
+    },
+    {
+      "name": "Brilliant Pink",
+      "number": "G510",
+      "lightfastness": 2,
+      "pigments": "PR209 PW6"
+    },
+    {
+      "name": "Cadmium Red",
+      "number": "G504",
+      "lightfastness": 3,
+      "pigments": "PR108"
+    },
+    {
+      "name": "Brilliant Orange",
+      "number": "G508",
+      "lightfastness": 1,
+      "pigments": "PO13"
+    },
+    {
+      "name": "Cadmium Yellow Orange",
+      "number": "G525",
+      "lightfastness": 3,
+      "pigments": "PO20"
+    },
+    {
+      "name": "Permanent Yellow Orange",
+      "number": "G522",
+      "lightfastness": 2,
+      "pigments": "PY6"
+    },
+    {
+      "name": "Permanent Yellow Deep",
+      "number": "G521",
+      "lightfastness": 2,
+      "pigments": "PY1"
+    },
+    {
+      "name": "Cadmium Yellow",
+      "number": "G523",
+      "lightfastness": 3,
+      "pigments": "PY35"
+    },
+    {
+      "name": "Lemon Yellow",
+      "number": "G526",
+      "lightfastness": 2,
+      "pigments": "PY3"
+    },
+    {
+      "name": "Marigold",
+      "number": "G532",
+      "lightfastness": 2,
+      "pigments": "PY83"
+    },
+    {
+      "name": "Naples Yellow",
+      "number": "G528",
+      "lightfastness": 3,
+      "pigments": "PY35,42 PW6"
+    },
+    {
+      "name": "Jaune Brilliant No. 1",
+      "number": "G530",
+      "lightfastness": 3,
+      "pigments": "PO20 PY35 PW6"
+    },
+    {
+      "name": "Moss Green",
+      "number": "G553",
+      "lightfastness": 2,
+      "pigments": "PY42 PG8"
+    },
+    {
+      "name": "Terre Verte",
+      "number": "G550",
+      "lightfastness": 4,
+      "pigments": "PG17,23"
+    },
+    {
+      "name": "Phthalo Green",
+      "number": "G556",
+      "lightfastness": 3,
+      "pigments": "PG7"
+    },
+    {
+      "name": "Cyprus Green",
+      "number": "G547",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7 PB15"
+    },
+    {
+      "name": "Dark Green",
+      "number": "G548",
+      "lightfastness": 3,
+      "pigments": "PG36 PB27"
+    },
+    {
+      "name": "Cadmium Green",
+      "number": "G543",
+      "lightfastness": 3,
+      "pigments": "PY35 PG7"
+    },
+    {
+      "name": "Leaf Green",
+      "number": "G540",
+      "lightfastness": 2,
+      "pigments": "PY1,3 PG7"
+    },
+    {
+      "name": "Permanent Green Deep",
+      "number": "G542",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7 PB15"
+    },
+    {
+      "name": "Permanent Green Light",
+      "number": "G541",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7"
+    },
+    {
+      "name": "Emerald Green",
+      "number": "G545",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7"
+    },
+    {
+      "name": "Ash Green",
+      "number": "G555",
+      "lightfastness": 2,
+      "pigments": "PG7 PY42 PBk6 PW6"
+    },
+    {
+      "name": "Ice Blue",
+      "number": "G560",
+      "lightfastness": 2,
+      "pigments": "PY3 PG7 PB15"
+    },
+    {
+      "name": "Cobalt Turquoise",
+      "number": "G569",
+      "lightfastness": 4,
+      "pigments": "PB28"
+    },
+    {
+      "name": "Turquoise Blue",
+      "number": "G561",
+      "lightfastness": 2,
+      "pigments": "PG50 PB15 PG7 PW6"
+    },
+    {
+      "name": "Cerulean Blue",
+      "number": "G562",
+      "lightfastness": 4,
+      "pigments": "PB35"
+    },
+    {
+      "name": "Aqua Blue",
+      "number": "G570",
+      "lightfastness": 2,
+      "pigments": "PB15 PW6"
+    },
+    {
+      "name": "Pure Blue",
+      "number": "G571",
+      "lightfastness": 2,
+      "pigments": "PB17"
+    },
+    {
+      "name": "Ultramarine Deep",
+      "number": "G565",
+      "lightfastness": 3,
+      "pigments": "PB29"
+    },
+    {
+      "name": "Prussian Blue",
+      "number": "G566",
+      "lightfastness": 2,
+      "pigments": "PB27"
+    },
+    {
+      "name": "Iris",
+      "number": "G586",
+      "lightfastness": 1,
+      "pigments": "PV23 BV7,15 PB29"
+    },
+    {
+      "name": "Violet",
+      "number": "G581",
+      "lightfastness": 0,
+      "pigments": "BV15 PB29"
+    },
+    {
+      "name": "Magenta",
+      "number": "G582",
+      "lightfastness": 0,
+      "pigments": "BV15"
+    },
+    {
+      "name": "Opera",
+      "number": "G584",
+      "lightfastness": 0,
+      "pigments": "BR1 BV1,11"
+    },
+    {
+      "name": "Lilac",
+      "number": "G587",
+      "lightfastness": 2,
+      "pigments": "PV23 PW6"
+    },
+    {
+      "name": "Yellow Ochre",
+      "number": "G527",
+      "lightfastness": 4,
+      "pigments": "PY42,43"
+    },
+    {
+      "name": "Raw Sienna",
+      "number": "G601",
+      "lightfastness": 4,
+      "pigments": "PY42"
+    },
+    {
+      "name": "Raw Umber",
+      "number": "G602",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Burnt Sienna",
+      "number": "G603",
+      "lightfastness": 4,
+      "pigments": "PBr7 PR101"
+    },
+    {
+      "name": "Burnt Umber",
+      "number": "G604",
+      "lightfastness": 4,
+      "pigments": "PBr7"
+    },
+    {
+      "name": "Sepia",
+      "number": "G600",
+      "lightfastness": 4,
+      "pigments": "PBr6 PBk6"
+    },
+    {
+      "name": "Payne's Gray",
+      "number": "",
+      "lightfastness": 1,
+      "pigments": "PBk9 PB29"
+    },
+    {
+      "name": "Primary Magenta",
+      "number": "G651",
+      "lightfastness": 3,
+      "pigments": "PR122"
+    },
+    {
+      "name": "Primary Yellow",
+      "number": "G652",
+      "lightfastness": 2,
+      "pigments": "PY3,74"
+    },
+    {
+      "name": "Primary Cyan",
+      "number": "G654",
+      "lightfastness": 3,
+      "pigments": "PB15"
+    }
+  ]
+}
