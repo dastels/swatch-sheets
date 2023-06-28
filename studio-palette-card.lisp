@@ -22,6 +22,27 @@
               (setq col (+ col (do-swatch swatch row col row-height col-width)))))))
       (pdf:write-document (make-pathname :name filename :type "pdf")))))
 
+(defun string-width (string font font-size)
+  (reduce #'+ (map 'list (lambda (x) (pdf:get-char-width x font font-size)) string)))
+
+(defun prefix-length (string index font font-size)
+  (string-width (subseq string 0 index) font font-size))
+
+
+(defun split-text (string font font-size max-width)
+  (cond ((equal (length string) 0)
+         '("" ""))
+        ((< (string-width string font font-size) max-width)
+         (list string ""))
+        (t (do ((split-point (1- (length string)) (1- split-point)))
+               ((or (equal split-point 0)
+                    (and (< (prefix-length string split-point font font-size) max-width)
+                         (equal (char string split-point) #\Space)))
+                (if (equal split-point 0)
+                    (list string "")
+                    (list (subseq string 0 split-point)
+                          (subseq string (1+ split-point)))))))))
+
 
 (defun do-swatch (swatch row col row-height col-width)
   (let* ((x (* col col-width))
@@ -33,17 +54,9 @@
          (full-pan (and swatch
                         (or (cdr (assoc :full swatch))
                             nil)))
-         (line1 name)
-         (line2 ""))
-    (when (and swatch
-               (> (length name) 11))
-      (do ((split-point (1- (length name)) (1- split-point)))
-          ((or (equal split-point 0)
-               (and (< split-point 14)
-                    (equal (char name split-point) #\Space)))
-           (unless (equal split-point 0)
-             (setq line1 (subseq name 0 split-point)
-                   line2 (subseq name (1+ split-point)))))))
+         (name-lines (split-text name helvetica 5.0 (- (* col-width (if full-pan 2 1)) 5)))
+         (line1 (first name-lines))
+         (line2 (second name-lines)))
     (pdf:rotate 0)
     (pdf:set-rgb-stroke 0.0 0.0 0.0)
     (pdf:set-rgb-fill 1.0 1.0 1.0)
