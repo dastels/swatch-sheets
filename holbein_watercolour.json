@@ -15,6 +15,12 @@
       "pigments": "PR177,122 PV19"
     },
     {
+      "name": "Permanent Alizarin Crimson",
+      "number": "W009",
+      "lightfastness": 3,
+      "pigments": "PV19 PBr25"
+    },
+    {
       "name": "Carmine",
       "number": "W011",
       "lightfastness": 2,
@@ -33,6 +39,12 @@
       "pigments": "PR254"
     },
     {
+      "name": "Cadmium Red Deep",
+      "number": "W015",
+      "lightfastness": 3,
+      "pigments": "PR108"
+    },
+    {
       "name": "Vermillion Hue",
       "number": "W019",
       "lightfastness": 3,
@@ -49,6 +61,12 @@
       "number": "W142",
       "lightfastness": 3,
       "pigments": "PO48 PY150"
+    },
+    {
+      "name": "Cadmium Yellow Deep",
+      "number": "W043",
+      "lightfastness": 3,
+      "pigments": "PO20 PY35"
     },
     {
       "name": "Permanent Yellow Light",
@@ -121,6 +139,12 @@
       "number": "W091",
       "lightfastness": 3,
       "pigments": "PB29,15"
+    },
+    {
+      "name": "Ultramarine Light",
+      "number": "W093",
+      "lightfastness": 3,
+      "pigments": "PB29"
     },
     {
       "name": "Prussian Blue",
