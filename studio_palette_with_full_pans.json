@@ -11,13 +11,13 @@
       [
           {
               "brand": "HWC",
-              "name": "Alizarin Crimson",
+              "name": "Perm. Alizarin Crimson",
               "full": true
           },
           {},
           {
               "brand": "HWC",
-              "name": "Cadmium Red",
+              "name": "Cadmium Red Deep",
               "full": true
           },
           {},
@@ -29,7 +29,7 @@
           {},
           {
               "brand": "HWC",
-              "name": "French Ultramarine",
+              "name": "Ultramarine Light",
               "full": true
           },
           {},
@@ -41,7 +41,7 @@
           {},
           {
               "brand": "HWC",
-              "name": "Cadmium Yellow",
+              "name": "Cadmium Yellow Deep",
               "full": true
           },
           {}
@@ -65,7 +65,23 @@
           },
           {
               "brand": "HWC",
+              "name": "Cherry Red"
+          },
+          {
+              "brand": "HWC",
+              "name": "Scarlet Lake"
+          },
+          {
+              "brand": "HWC",
+              "name": "Cadmium Red Purple"
+          },
+          {
+              "brand": "HWC",
               "name": "Vermillion Hue"
+          },
+          {
+              "brand": "HWC",
+              "name": "Cadmium Red Orange"
           },
           {
               "brand": "WLWC",
@@ -74,6 +90,16 @@
           {
               "brand": "HWC",
               "name": "Permanent Yellow Orange"
+          },
+          {
+              "brand": "HWC",
+              "name": "Cadmium Yellow Light"
+          }
+      ],
+      [
+          {
+              "brand": "HWC",
+              "name": "Gamboge Nova"
           },
           {
               "brand": "HWC",
@@ -93,10 +119,8 @@
           },
           {
               "brand": "HWC",
-              "name": "Jaune Brilliant No. 1"
-          }
-      ],
-      [
+              "name": "Jaune Brilliant \nNo. 1"
+          },
           {
               "brand": "HWC",
               "name": "Permanent Green No. 1"
@@ -107,8 +131,22 @@
           },
           {
               "brand": "HWC",
-              "name": "Bamboo Green"
+              "name": "Permanent Green No. 3"
           },
+          {
+              "brand": "HWC",
+              "name": "Cadmium Green Deep"
+          },
+          {
+              "brand": "HWC",
+              "name": "Cadmium Green Pale"
+          },
+          {
+              "brand": "HWC",
+              "name": "Bamboo Green"
+          }
+      ],
+      [
           {
               "brand": "HWC",
               "name": "Viridian Hue"
@@ -131,6 +169,10 @@
           },
           {
               "brand": "HWC",
+              "name": "Compose Blue"
+          },
+          {
+              "brand": "HWC",
               "name": "Cerulean Blue"
           },
           {
@@ -144,9 +186,7 @@
           {
               "brand": "HWC",
               "name": "Colbalt Blue Hue"
-          }
-      ],
-      [
+          },
           {
               "brand": "WLWC",
               "name": "Payne's Indigo"
@@ -154,14 +194,24 @@
           {
               "brand": "HWC",
               "name": "Quinacridone Magenta"
+          }
+      ],
+      [
+          {
+              "brand": "HWC",
+              "name": "Mars Violet"
           },
           {
               "brand": "WLWC",
               "name": "Purple Oops"
           },
           {
-              "brand": "WLWC",
-              "name": "Buff Titanium"
+              "brand": "HWC",
+              "name": "Light Red"
+          },
+          {
+              "brand": "HWC",
+              "name": "Mars Yellow"
           },
           {
               "brand": "HWC",
@@ -192,11 +242,15 @@
               "name": "Ivory Black"
           },
           {
-              "brand": "DS",
-              "name": "Payne's Grey"
+              "brand": "HWC",
+              "name": "Peach Black"
           }
       ],
       [
+          {
+              "brand": "DS",
+              "name": "Payne's Grey"
+          },
           {
               "brand": "WLWC",
               "name": "Raincloud"
@@ -204,9 +258,35 @@
           {
               "brand": "HWC",
               "name": "Chinese White"
+          },
+          {},
+          {},
+          {},
+          {
+              "brand": "SG",
+              "name": "Golden Ochre"
+          },
+          {
+              "brand": "SG",
+              "name": "Caput Mortuum"
+          },
+          {
+              "brand": "SG",
+              "name": "Mayan Indigo Blue"
+          },
+          {
+              "brand": "SG",
+              "name": "Mayan Green Deep"
+          },
+          {
+              "brand": "SG",
+              "name": "Chromium Oxide Green"
+          },
+          {
+              "brand": "SG",
+              "name": "Titanium Buff"
           }
       ],
-      [],
       [
           {
               "brand": "WLWC",
@@ -232,6 +312,9 @@
               "brand": "WLWC",
               "name": "Thai Milktea"
           },
+          {},
+          {},
+          {},
           {
               "brand": "WLWC",
               "name": "Kaleidoscope"
